@@ -1,2 +1,2 @@
-# NoteandtodlistV2
+# todoList
 Created with CodeSandbox
